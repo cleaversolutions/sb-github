@@ -1,0 +1,5 @@
+backend:
+  name: github
+  repo: cleaversolutions/sb-github
+  branch: gh-pages
+media_folder: "images/uploads"
